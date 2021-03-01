@@ -7,4 +7,8 @@ The naming format of the folders in this repository is:
     https://drive.google.com/file/d/1wJC40py_ZFpi1ohBRbz2x6HOeCur92R9/view?usp=sharing
     
 ------------------------------------------------------------------------------------------------
-
+10_React_12.zip is a large file, so only the ,modified files have been added in this repository.
+(i) To create and run a react project , these are the commands - 
+      npx create-react-app my-react-app
+      cd my-app
+      npm start
