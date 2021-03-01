@@ -9,6 +9,6 @@ The naming format of the folders in this repository is:<br>
 ------------------------------------------------------------------------------------------------
 10_React_12.zip is a large file, so only the ,modified files have been added in this repository.<br>
 (i) To create and run a react project,these are the commands: <br>
-            npx create-react-app my-react-app <br>
-            cd my-app <br>
-            npm start
+            <pre>               </pre>npx create-react-app my-react-app <br>
+            <pre>               </pre>cd my-app <br>
+            <pre>               </pre>npm start
